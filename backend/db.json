@@ -1,11 +1,19 @@
 {
-  "users": [{
-    "id": 1,
-    "name": "Bilbo Baggins",
-    "email": "bilbo@hobbit.com"
-  }, {
-    "id": 2,
-    "name": "Gandalf the Grey",
-    "email": "gandalf@hobbit.com"
-  }]
+  "users": [
+    {
+      "id": 1,
+      "name": "Bilbo Baggins",
+      "email": "bilbo@hobbit.com"
+    },
+    {
+      "id": 2,
+      "name": "Gandalf the Grey",
+      "email": "gandalf@hobbit.com"
+    },
+    {
+      "name": "Legolas Leaf",
+      "email": "legolas@hobbit.com",
+      "id": 3
+    }
+  ]
 }
